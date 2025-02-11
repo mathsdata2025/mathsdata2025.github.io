@@ -1,5 +1,3 @@
-background: '/bernoulli.jpg'
----
 A summer school intended for Msc and PhD students, on the mathematical foundations of data science. 
 
 This is the second installment of a global annual summer school ([2024 edition in Australia](https://maths.anu.edu.au/news-events/events/annual-graduate-school-mathematical-aspects-data-science), [2026 edition in Singapour](https://ims.nus.edu.sg/events/ss_datascience2026/))
