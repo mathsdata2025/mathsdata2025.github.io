@@ -1,3 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Summer school - maths of data 2025
+description: Mathematical aspects of data science summer school - EPFL (Suisse) - Sept. 1-5, 2025
