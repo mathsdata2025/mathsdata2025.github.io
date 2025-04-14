@@ -6,9 +6,8 @@ This is the second installment of a global annual summer school ([2024 edition i
 - [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) 
 - [Afonso S. Bandeira](https://people.math.ethz.ch/~abandeira/) (ETH Zürich)
 - [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html) (Collège de France)
-- [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford)
+- [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford University)
 - [Gabriel Peyré](https://www.gpeyre.com/) (ENS)
-- [Tselil Schramm](https://tselilschramm.org/) (Stanford)
 
 ### Date, venue and travel
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
