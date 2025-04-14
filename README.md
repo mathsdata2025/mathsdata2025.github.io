@@ -13,7 +13,7 @@ This is the second installment of a global annual summer school ([2024 edition i
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 
 ### Registration
-Click here for registration
+[Click here for registration](https://docs.google.com/forms/d/e/1FAIpQLSfhE2N9sXFjS_sn5BFpPmiIhpU843DQ0K9wK1_teFMy6Rjn4w/viewform?usp=dialog)
 
 ### Organizers
 E. Abbe, P. Bartlett, N. Boumal, L. Chizat, G. Lugosi, S. Mendelson, R. Vershynin
