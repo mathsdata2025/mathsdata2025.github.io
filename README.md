@@ -9,7 +9,7 @@ This is the second installment of a global annual summer school ([2024 edition i
 - [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford University)
 - [Gabriel Peyré](https://www.gpeyre.com/) (ENS)
 
-### Date, venue and travel
+### Dates and venue
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 
 ### How to attend
