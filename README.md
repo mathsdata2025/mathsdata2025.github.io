@@ -4,7 +4,7 @@ A summer school intended for Msc and PhD students, on the mathematical foundatio
 - [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) - Structured prediction: supervised learning beyond binary classification
 - [Afonso S. Bandeira](https://people.math.ethz.ch/~abandeira/) (ETH Zürich) - Random Matrices and Tensor PCA
 - [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html) (Collège de France) - Image Generation from score diffusion to renormalisation group in physics
-- [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford University)
+- [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford University) - Feature learning and overfitting
 - [Gabriel Peyré](https://www.gpeyre.com/) (ENS) - Diffusion Flows and Optimal Transport in Machine Learning
 
 ### Dates and venue
