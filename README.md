@@ -11,7 +11,7 @@ A summer school intended for Msc and PhD students, on the mathematical foundatio
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 
 ### How to attend
-[Click here to apply](https://docs.google.com/forms/d/e/1FAIpQLSfhE2N9sXFjS_sn5BFpPmiIhpU843DQ0K9wK1_teFMy6Rjn4w/viewform?usp=dialog)
+Applications are now closed.
 Admission decisions will be communicated in the end of May
 
 ### Organizers
