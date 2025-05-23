@@ -6,13 +6,14 @@ A summer school intended for Msc and PhD students, on the mathematical foundatio
 - [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html) (Collège de France) - Image Generation from score diffusion to renormalisation group in physics
 - [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford University) - Feature learning and overfitting
 - [Gabriel Peyré](https://www.gpeyre.com/) (ENS) - Diffusion Flows and Optimal Transport in Machine Learning
+- [Tselil Schramm](https://tselilschramm.org/) (Stanford) - CANCELLED
 
 ### Dates and venue
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 
 ### How to attend
 Applications are now closed.
-Admission decisions will be communicated in the end of May
+Admission decisions will be communicated in the end of May.
 
 ### Organizers
 E. Abbe, P. Bartlett, N. Boumal, L. Chizat, G. Lugosi, S. Mendelson, R. Vershynin
