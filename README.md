@@ -16,6 +16,8 @@ Applications are now closed. All admitted applicants have been notified by email
 
 Please note: due to a technical issue in the application form, we were unable to collect email addresses from some applicants. While we regret not being able to inform those non-admitted individuals directly, this did not affect the selection process, which was conducted independently of contact information.
 
+To EPFL applicants: Due to the high number of applications from EPFL, we have decided not to enroll any EPFL-based participants in this edition of the summer school. We are currently exploring fallback options, such as a live campus broadcast of the lectures.
+
 ### Organizers
 E. Abbe, P. Bartlett, N. Boumal, L. Chizat, G. Lugosi, S. Mendelson, R. Vershynin
 
