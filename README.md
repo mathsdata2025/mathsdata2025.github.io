@@ -14,7 +14,7 @@ Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 ### How to attend
 Applications are now closed. All admitted applicants have been notified by email. Due to an exceptionally high number of applications—far exceeding the number of available spots—we had to make many difficult decisions during the selection process.
 
-Please note: due to a technical issue in the application form, we were unable to collect email addresses from some applicants. As a result, we regret that we could not contact those individuals directly.
+Please note: due to a technical issue in the application form, we were unable to collect email addresses from some applicants. While we regret not being able to inform those non-admitted individuals directly, this did not affect the selection process, which was conducted independently of contact information.
 
 ### Organizers
 E. Abbe, P. Bartlett, N. Boumal, L. Chizat, G. Lugosi, S. Mendelson, R. Vershynin
