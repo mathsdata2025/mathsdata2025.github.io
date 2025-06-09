@@ -12,8 +12,9 @@ A summer school intended for Msc and PhD students, on the mathematical foundatio
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 
 ### How to attend
-Applications are now closed.
-Admission decisions will be communicated in the end of May.
+Applications are now closed. All admitted applicants have been notified by email. Due to an exceptionally high number of applications—far exceeding the number of available spots—we had to make many difficult decisions during the selection process.
+
+Please note: due to a technical issue in the application form, we were unable to collect email addresses from some applicants. As a result, we regret that we could not contact those individuals directly.
 
 ### Organizers
 E. Abbe, P. Bartlett, N. Boumal, L. Chizat, G. Lugosi, S. Mendelson, R. Vershynin
