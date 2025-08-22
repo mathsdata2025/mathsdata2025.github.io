@@ -11,6 +11,19 @@ A summer school intended for Msc and PhD students, on the mathematical foundatio
 ### Dates and venue
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 
+### Program (preliminary version)
+
+| Time          | Monday      | Tuesday        | Wednesday       | Thursday      | Friday      |
+|---------------|-------------|----------------|-----------------|---------------|-------------|
+| 9:00 - 10:30  | Mallat      | Mallat         | Montanari       | Bach          | Bach        |
+| 10:30 - 11:00 | Pause       | Pause          | Pause           | Pause         | Pause       |
+| 11:00 - 12:30 | Bandeira    | Montanari      | Peyre           | Peyre         | TBD         |
+| 12:30 - 14:00 | Lunch       | Lunch          | Lunch           | Lunch         | Lunch       |
+| 14:00 - 15:30 | Bandeira    | Poster session | Outdoor activity| Discussions   | Discussions |
+| 15:30         | Ice breacking |                |                 |               |             |
+| 18:00         |             | Cocktail       |                 |               |             |
+
+
 ### How to attend
 Applications are now closed. All admitted applicants have been notified by email. Due to an exceptionally high number of applications—far exceeding the number of available spots—we had to make many difficult decisions during the selection process.
 
