@@ -20,7 +20,7 @@ Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 | 11:00 - 12:30 | Bandeira    | Montanari      | Peyre           | Peyre         | TBD         |
 | 12:30 - 14:00 | Lunch       | Lunch          | Lunch           | Lunch         | Lunch       |
 | 14:00 - 15:30 | Bandeira    | Poster session | Outdoor activity| Discussions   | Discussions |
-| 15:30         | Ice breacking |                |                 |               |             |
+| 15:30         | Ice breaking |                |                 |               |             |
 | 18:00         |             | Cocktail       |                 |               |             |
 
 
