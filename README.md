@@ -4,6 +4,7 @@ A summer school for MSc and PhD students, on the mathematical foundations of dat
 - [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA) - Structured prediction: supervised learning beyond binary classification
 - [Afonso S. Bandeira](https://people.math.ethz.ch/~abandeira/) (ETH Zürich) - Random matrices and tensor PCA
 - [Stéphane Mallat](https://www.di.ens.fr/~mallat/mallat.html) (Collège de France) - Image generation from score diffusion to renormalisation group in physics
+- [Shahar Mendelson](https://sites.google.com/view/shaharmendelson/home) - Do we really need the Rademacher Complexities? A quick tour through the history of Learning Theory.
 - [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford University) - Feature learning and overfitting
 - [Gabriel Peyré](https://www.gpeyre.com/) (ENS) - Diffusion flows and optimal transport in machine learning
 - [Tselil Schramm](https://tselilschramm.org/) (Stanford) - cancelled
