@@ -11,18 +11,17 @@ A summer school for MSc and PhD students, on the mathematical foundations of dat
 ### Dates and venue
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 
-Zoom link: https://epfl.zoom.us/j/68817774793?pwd=wqaR87mlQ86TOCaAwj3JYdjPEEQUwI.1
-
 ### Program (preliminary version)
 
 | Time          | Monday      | Tuesday        | Wednesday       | Thursday      | Friday      |
 |---------------|-------------|----------------|-----------------|---------------|-------------|
+| 8:50          | Announcements|||||
 | 9:00 - 10:30  | Mallat      | Mallat         | Montanari       | Bach          | Bach        |
-| 10:30 - 11:00 | Break       | Break          | Break           | Break         | Break       |
-| 11:00 - 12:30 | Bandeira    | Montanari      | Peyre           | Peyre         | TBD         |
+| 10:30 - 11:00 | Coffee Break | Coffee Break  | Coffee Break   | Coffee Break  | Coffee Break       |
+| 11:00 - 12:30 | Bandeira    | Montanari      | Peyre           | Peyre         | Lecture     |
 | 12:30 - 14:00 | Lunch       | Lunch          | Lunch           | Lunch         | Lunch       |
-| 14:00 - 15:30 | Bandeira    | Poster session | Outdoor activity| Discussions   | Discussions |
-| 15:30         | Icebreaker |                |                 |               |             |
+| 14:00 - 15:30 | Bandeira    | Lecture        | Outdoor activity| Lecture       | Discussions |
+| 15:30         | Coffee Break   | Poster session |                 |  Coffee break   |             |
 | 18:00         |             | Cocktail       |                 |               |             |
 
 
@@ -31,7 +30,7 @@ Applications are now closed. All admitted applicants have been notified by email
 
 Please note: due to a technical issue in the application form, we were unable to collect email addresses from some applicants. We regret not being able to inform some non-admitted applicants directly. This did not affect the selection process, which was conducted independently of contact information.
 
-To EPFL applicants: Due to the high number of applications from EPFL, we have decided not to enroll any EPFL-based participants in this edition of the summer school. We are currently exploring alternatives, such as a live campus broadcast of the lectures.
+To EPFL applicants: Due to the high number of applications from EPFL, we have decided not to enroll any EPFL-based participants in this edition of the summer school. The lectures will be live broadcasted on this [zoom link](https://epfl.zoom.us/j/68817774793?pwd=wqaR87mlQ86TOCaAwj3JYdjPEEQUwI.1)
 
 ### Organizers
 E. Abbe, P. Bartlett, N. Boumal, L. Chizat, G. Lugosi, S. Mendelson, R. Vershynin
