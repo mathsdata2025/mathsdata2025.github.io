@@ -22,7 +22,7 @@ Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 | 10:30 - 11:00 | Coffee Break | Coffee Break  | Coffee Break    | Coffee Break  | Coffee Break  |
 | 11:00 - 12:30 | Bandeira    | Montanari      | Peyre           | Peyre         | Srebro     |
 | 12:30 - 14:00 | Lunch       | Lunch          | Lunch           | Lunch         | Lunch       |
-| 14:00 - 15:30 | Bandeira    | Mendelson      | Outdoor activity| Srebro        | Discussions |
+| 14:00 - 15:30 | Bandeira    | Mendelson      | Outdoor activity| Srebro  (TBC)     | Discussions |
 | 15:30         | Coffee Break   | Poster session |                 |  Coffee break   |             |
 | 18:00         |             | Cocktail       |                 |               |             |
 
