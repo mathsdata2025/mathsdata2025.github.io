@@ -8,7 +8,7 @@ A summer school for MSc and PhD students, on the mathematical foundations of dat
 - [Andrea Montanari](https://web.stanford.edu/~montanar/) (Stanford University) - Feature learning and overfitting
 - [Gabriel Peyré](https://www.gpeyre.com/) (ENS) - Diffusion flows and optimal transport in machine learning
 - [Tselil Schramm](https://tselilschramm.org/) (Stanford) - cancelled
-- [Nati Srebro](https://nati.ttic.edu/) - TBA
+- [Nati Srebro](https://nati.ttic.edu/) (TTIC) - McCulloch, Pitts, Shanon, Turing and LLMs: (Universal) Learning and Computational Models from Neural Nets to Transformers
 
 ### Dates and venue
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
@@ -22,15 +22,18 @@ Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 | 10:30 - 11:00 | Coffee Break | Coffee Break  | Coffee Break    | Coffee Break  | Coffee Break  |
 | 11:00 - 12:30 | Bandeira    | Montanari      | Peyre           | Peyre         | Srebro     |
 | 12:30 - 14:00 | Lunch       | Lunch          | Lunch           | Lunch         | Lunch       |
-| 14:00 - 15:30 | Bandeira    | Mendelson      | Outdoor activity| Srebro  (TBC)     | Discussions |
-| 15:30         | Coffee Break   | Poster session |                 |  Coffee break   |             |
-| 18:00         |             | Cocktail       |                 |               |             |
+| 14:00 - 15:30 | Bandeira    | Mendelson      | Outdoor activity| Srebro       | Discussions |
+| 15:30         | Coffee Break   | Poster session |              |  Coffee break   |             |
+| 16:00         |             | Poster session      |                 |  Optional: [Bach's talk](https://memento.epfl.ch/event/ai-center-research-seminar-series-francis-bach/)  |         |
+| 18:00         |             | Cocktail ([here](https://plan.epfl.ch/?room==SV%201604))      |                 |               |             |
 
 
 ### How to attend
 Applications are now closed. All admitted applicants have been notified by email. Due to an exceptionally high number of applications—far exceeding the number of available spots—we had to make many difficult decisions during the selection process.
 
 The lectures will be live broadcasted on this [zoom link](https://epfl.zoom.us/j/68817774793?pwd=wqaR87mlQ86TOCaAwj3JYdjPEEQUwI.1)
+
+The self-service "Foodlab" restaurants are located [around here](https://plan.epfl.ch/?room==CM%202%20435).
 
 ### Organizers
 E. Abbe, P. Bartlett, N. Boumal, L. Chizat, G. Lugosi, S. Mendelson, R. Vershynin
