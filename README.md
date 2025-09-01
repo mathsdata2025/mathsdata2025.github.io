@@ -18,9 +18,9 @@ Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 | Time          | Monday      | Tuesday        | Wednesday       | Thursday      | Friday      |
 |---------------|-------------|----------------|-----------------|---------------|-------------|
 | 8:50          | Announcements|||||
-| 9:00 - 10:30  | Mallat      | Mallat         | Montanari       | Bach          | Bach        |
+| 9:00 - 10:30  | Mallat      | Mallat         | Montanari       | Peyré          | Bach        |
 | 10:30 - 11:00 | Coffee Break | Coffee Break  | Coffee Break    | Coffee Break  | Coffee Break  |
-| 11:00 - 12:30 | Bandeira    | Montanari      | Peyre           | Peyre         | Srebro     |
+| 11:00 - 12:30 | Bandeira    | Montanari      | Peyre           | Bach         | Srebro     |
 | 12:30 - 14:00 | Lunch       | Lunch          | Lunch           | Lunch         | Lunch       |
 | 14:00 - 15:30 | Bandeira    | Mendelson      | Free afternoon | Srebro       | Discussions |
 | 15:30         | Coffee Break   | Poster session |              |  Coffee break   |             |
