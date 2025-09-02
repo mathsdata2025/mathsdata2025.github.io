@@ -36,7 +36,7 @@ The lectures will be live broadcasted on this [zoom link](https://epfl.zoom.us/j
 The self-service "Foodlab" restaurants are located [around here](https://plan.epfl.ch/?room==CM%202%20435).
 
 ### Some suggestions for the free afternoon
-- Take the cable train up to [Rochers de Naye]([https://maps.app.goo.gl/VGqTgU7cazH5nRey6](https://www.mob.ch/en/stories/rochers-de-naye)
+- Take the cable train up to [Rochers-de-Naye](https://www.mob.ch/en/stories/rochers-de-naye)
 - Walk on the river side between [Villeneuve and Montreux](https://www.montreuxriviera.com/en/V1441/montreux-villeneuve-without-obstacles)
 - Walk in the wineyards of the [Terrasses du Lavaux](https://schweizmobil.ch/en/hiking-in-switzerland/route-113)
 
