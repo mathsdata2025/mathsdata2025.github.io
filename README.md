@@ -40,6 +40,9 @@ The self-service "Foodlab" restaurants are located [around here](https://plan.ep
 - Walk on the river side between [Villeneuve and Montreux](https://www.montreuxriviera.com/en/V1441/montreux-villeneuve-without-obstacles)
 - Walk in the wineyards of the [Terrasses du Lavaux](https://schweizmobil.ch/en/hiking-in-switzerland/route-113)
 
+### Recorded lectures
+[Click here to watch the recorded lectures.](https://bernoulli.epfl.ch/programs/summer-school-on-the-mathematical-aspects-of-the-data-science/)
+
 ### Organizers
 E. Abbe, P. Bartlett, N. Boumal, L. Chizat, G. Lugosi, S. Mendelson, R. Vershynin
 
