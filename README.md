@@ -13,7 +13,7 @@ A summer school for MSc and PhD students, on the mathematical foundations of dat
 ### Dates and venue
 Sept. 1-5 2025, Bernoulli Center, EPFL (Switzerland)
 
-### Program (preliminary version)
+### Program
 
 | Time          | Monday      | Tuesday        | Wednesday       | Thursday      | Friday      |
 |---------------|-------------|----------------|-----------------|---------------|-------------|
